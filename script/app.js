@@ -64,7 +64,19 @@
             },
             {
                 name: "Extra Sweet Cookies",
-                quantity: 10
+                quantity: 20
+            },
+            {
+                name: "White Chocolate Cookies",
+                quantity: 30
+            },
+            {
+                name: "Dark Chocolate Cookies",
+                quantity: 40
+            },
+            {
+                name: "Coffee Cookies",
+                quantity: 50
             }
         ];
 
